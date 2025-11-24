@@ -16,7 +16,7 @@ import Link from "next/link";
 export function BentoGridDemo() {
   return (
     <div className="flex flex-col gap-10 max-w-4xl mx-auto mb-10">
-      <h2 className="font-bold text-4xl text-white">Best Project</h2>
+      <h2 className="font-bold text-4xl text-white">All Projects</h2>
       <BentoGrid className="">
         {items.map((item, i) => (
           <BentoGridItem
