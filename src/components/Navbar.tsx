@@ -14,7 +14,7 @@ export function NavbarDemo() {
 function Navbar({ className }: { className?: string }) {
   const links = [
     { name: "Email", href: "mailto:vanshgaikwad@gmail.com" },
-    { name: "Resume", href: "https://drive.google.com/file/d/18ER76dNVymqBU8Q-gQFOU_Oq8LEwBlcW/view?usp=sharing" },
+    { name: "Resume", href: "https://drive.google.com/drive/folders/1KlLAcfhahMugJj8KhmIGgC0P1vhOztQE" },
     { name: "LinkedIn", href: "https://www.linkedin.com/in/vansh-gaikwad/" },
     { name: "Github", href: "https://github.com/VanshGaikwad" },
   ];
